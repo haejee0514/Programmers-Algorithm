@@ -11,6 +11,3 @@ def solution(board, h, w):
                 count+= 1
                 
     return count
-    
-    
-    return answer
